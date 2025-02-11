@@ -1,3 +1,3 @@
 #The Demo Project
 
-To text css, Html, Js skill.
+To test the skill css, Html, Js skill.
